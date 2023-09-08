@@ -9,7 +9,7 @@
 
 -   💻 I’m currently undergrad Information Systems student
 
--   🌱 I’m currently learning **React JS & Japanese (日本語)**
+-   🌱 I’m currently learning **React JS & Japanese** (日本語)
 
 -   📫 How to reach me **melvinaustinn@gmail.com**
 
