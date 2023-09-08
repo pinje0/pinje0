@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Melvin Austin</h1>
 <h3 align="center">A self-taught frontend developer from Indonesia</h3>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=0e75b6&style=flat" alt="pinje0" /> </p>
 
--   🔭 I’m currently studying at **Gunadarma University**
+-   💻 I’m currently undergrad Information Systems student
 
 -   🌱 I’m currently learning **React JS & Japanese (日本語)**
 
