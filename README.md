@@ -1,48 +1,22 @@
-<h1 align="center" style="color: white">Hi 👋, I'm Melvin Austin</h1>
-<h3 align="center" style="color: white">
-    A self-taught frontend developer from Indonesia
-</h3>
-<div align="center">
-    <img
-        src="https://github.com/pinje0/pinje0/blob/main/coderman.gif"
-        alt="Coder"
-        width="400"
-        height="250"
-    />
-</div>
+<h1 align="center">Hi 👋, I'm Melvin Austin</h1>
+<h3 align="center">A self-taught frontend developer from Indonesia</h3>
+<div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/coderman.gif" alt="Coder" width="400" height="250"/></div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=0e75b6&style=flat" alt="pinje0" /> </p>
+
+-   🔭 I’m currently studying at **Gunadarma University**
+
+-   🌱 I’m currently learning **React JS & Japanese (日本語)**
+
+-   📫 How to reach me **melvinaustinn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=0e75b6&style=flat"
-        alt="pinje0"
-    />
+<a href="https://linkedin.com/in/melvin-austin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-austin" height="30" width="40" /></a>
+<a href="https://instagram.com/pinje__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinje__" height="30" width="40" /></a>
 </p>
 
-- 💻 I’m currently undergrad Information Systems student - 🌱 I’m currently
-learning **React JS & Japanese** (日本語) - 📫 How to reach me
-**melvinaustinn@gmail.com**
-
-<h3 align="left" style="color: white">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/melvin-austin" target="_blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="melvin-austin"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://instagram.com/pinje__" target="_blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="pinje__"
-            height="30"
-            width="40"
-    /></a>
-</p>
-
-<h3 align="left" style="color: white">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
@@ -159,26 +133,8 @@ learning **React JS & Japanese** (日本語) - 📫 How to reach me
     </a>
 </p>
 
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pinje0&show_icons=true&locale=en&layout=compact"
-        alt="pinje0"
-    />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinje0&show_icons=true&theme=dark&locale=en&layout=compact" alt="pinje0" /></p>
 
-<p>
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=pinje0&show_icons=true&locale=en"
-        alt="pinje0"
-    />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinje0&show_icons=true&theme=dark&locale=en" alt="pinje0" /></p>
 
-<p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pinje0&"
-        alt="pinje0"
-    />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinje0&theme=dark" alt="pinje0" /></p>
