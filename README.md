@@ -2,7 +2,7 @@
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
-<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=for-the-badge&color=41B883">
+<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=flat-square&color=41B883">
 
 
 -   👁‍🗨 I’m currently learning **React JS & Japanese** (日本語)
@@ -60,6 +60,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=style=flat-square&logo=windows&logoColor=white)
 
 
 
