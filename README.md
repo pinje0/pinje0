@@ -12,8 +12,28 @@
 
 # <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/melvin-austin" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-austin" height="30" width="40" /></a>
-<a href="https://instagram.com/pinje__" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinje__" height="30" width="40" /></a>
+<p align="left">
+    <a href="https://instagram.com/pinje__" target="_blank"
+        ><img
+            align="center"
+            target="_blank"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+            alt="pinje__"
+    /></a>
+    <a href="https://linkedin.com/in/melvin-austin" target="_blank"
+        ><img
+            align="center"
+            target="_blank"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="melvin-austin"
+    /></a>
+    <a href="https://steamcommunity.com/id/pinjeq/" target="_blank"
+        ><img
+            align="center"
+            target="_blank"
+            src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"
+            alt="ユラク"
+    /></a>
 </p>
 
 # <h3 align="left">Languages and Tools:</h3>
