@@ -22,4 +22,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,py,react,git,vscode&perline=6" />
   </a>
 </p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinje0&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pinje0" /></p>
+ <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pinje0&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pinje0" /></p>
