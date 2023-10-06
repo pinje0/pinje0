@@ -2,8 +2,7 @@
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=41B883&style=flat" alt="pinje0" /> </p>
+<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=for-the-badge&color=41B883">
 
 
 -   👁‍🗨 I’m currently learning **React JS & Japanese** (日本語)
