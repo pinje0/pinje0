@@ -18,15 +18,18 @@
 
 # <h3 align="left">Languages and Tools:</h3>
 <p>
-    <img
-        align="left"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pinje0&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-        alt="pinje0"
-        style="margin-right: 200px"
-    />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+            align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=tokyonight"
+            alt="pinje0"
+        />
+    </a>
     <a align="right" href="https://skillicons.dev">
         <img
             src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,py,react,git,vscode&perline=6"
         />
     </a>
 </p>
+
+
