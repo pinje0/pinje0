@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
-<div><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
+<div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
 
