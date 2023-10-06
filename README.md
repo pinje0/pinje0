@@ -1,13 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
-<div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/coderman.gif" alt="Coder" width="400" height="250"/></div>
+<div><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=0e75b6&style=flat" alt="pinje0" /> </p>
+<br>
 
--   🔭 I’m currently studying at **Gunadarma University**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinje0&label=Profile%20views&color=41B883&style=flat" alt="pinje0" /> </p>
 
--   🌱 I’m currently learning **React JS & Japanese (日本語)**
 
--   📫 How to reach me **melvinaustinn@gmail.com**
+-   👁‍🗨 I’m currently learning **React JS & Japanese** (日本語)
+
+-   👁‍🗨 How to reach me **melvinaustinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
