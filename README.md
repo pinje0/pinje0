@@ -40,7 +40,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="left"
-            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=tokyonight"
+            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=tokyonight&count-private=true"
             alt="pinje0"
         />
     </a>
