@@ -1,15 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
-<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=flat-square&color=41B883">
+<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=flat-square&color=41B883"> 
 
 
--   👁‍🗨 I’m currently learning **React JS & Japanese** (日本語)
+-   I’m currently learning **React JS & Japanese** (日本語)
+-   How to reach me **melvinaustinn@gmail.com**
 
--   👁‍🗨 How to reach me **melvinaustinn@gmail.com**
-
-# <h3 align="left">Connect with me:</h3>
+# <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <p align="left">
     <a href="https://instagram.com/pinje__" target="_blank"
@@ -59,6 +58,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=style=flat-square&logo=windows&logoColor=white)
 
