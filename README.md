@@ -59,6 +59,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=style=flat-square&logo=windows&logoColor=white)
 
