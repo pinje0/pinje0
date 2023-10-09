@@ -62,9 +62,39 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=style=flat-square&logo=windows&logoColor=white)
-
-
-
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ ### Front-End Development 🌐
+- `HTML5`
+- `CSS3`<br>
+\\___[ Framework<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Bootstrap`,`Tailwind CSS` ]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\___[ CSS pre-processor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `SASS/SCSS` ]
+- `Javascript`<br>
+\\___[ Library<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React` ]
 
 
+### Back-End Development 💼
+- `Python` (for _structured programming_ and _OOP_)
+
+### Version Control 🚀
+
+- `Git`
+- `GitHub`
+
+### Code Editor ✍️
+
+- `Visual Studio Code` (VSCode)
+
+### Deployment 🌍
+
+- `Vercel`
+- `Replit`
