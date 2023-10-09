@@ -69,7 +69,7 @@
 <br>
 <br>
 
-<h3>Front-End Development 🌐</h3>
+### Front-End Development 🌐
 
 - `HTML5`
 - `CSS3`<br>
