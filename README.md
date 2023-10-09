@@ -81,10 +81,6 @@
 \\___[ Library<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React` ]
 
-
-### Back-End Development 💼
-- `Python` (for _structured programming_ and _OOP_)
-
 ### Version Control 🚀
 
 - `Git`
@@ -98,3 +94,7 @@
 
 - `Vercel`
 - `Replit`
+
+### System Operation 🖥️
+
+- `Windows`
