@@ -5,7 +5,7 @@
 <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=flat-square&color=41B883"> 
 
 
--   I’m currently learning **React JS & Japanese** (日本語)
+-   I’m currently learning `React` & `Japanese(日本語)`
 -   How to reach me **melvinaustinn@gmail.com**
 
 # <h3 align="left"> Connect with me:</h3>
