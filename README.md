@@ -6,7 +6,7 @@
 
 
 -   I’m currently learning `React` & `Japanese(日本語)`
--   How to reach me **melvinaustinn@gmail.com**
+-   You can contact me at [melvinaustinn@gmail.com](mailto:melvinaustinn@gmail.com)
 
 # <h3 align="left"> Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="left"
-            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=tokyonight&count-private=true"
+            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=dark&count-private=true"
             alt="pinje0"
         />
     </a>
