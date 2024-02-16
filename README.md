@@ -39,7 +39,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
             align="left"
-            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=dark&count-private=true"
+            src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=dark&count-private=true$langs_count=10"
             alt="pinje0"
         />
     </a>
