@@ -1,38 +1,21 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
+
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
-<img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=pinje0&style=flat-square&color=41B883"> 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{pinje0}/count.svg" width="160px" alt="pinje0 :: Visitor's Count" />
+</p>
 
 -   I’m currently learning `React` & `Japanese(日本語)`
--   You can contact me at [melvinaustinn@gmail.com](mailto:melvinaustinn@gmail.com)
+-   日本語を勉強しています
+
+
 
 # <h3 align="left"> Connect with me:</h3>
-<p align="left">
-<p align="left">
-    <a href="https://instagram.com/pinje__" target="_blank"
-        ><img
-            align="center"
-            target="_blank"
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-            alt="pinje__"
-    /></a>
-    <a href="https://linkedin.com/in/melvin-austin" target="_blank"
-        ><img
-            align="center"
-            target="_blank"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="melvin-austin"
-    /></a>
-    <a href="https://steamcommunity.com/id/pinjeq/" target="_blank"
-        ><img
-            align="center"
-            target="_blank"
-            src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"
-            alt="ユラク"
-    /></a>
-</p>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pinje__/)
+&nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-austin/)
 
 # <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -44,29 +27,9 @@
         />
     </a>
     <div align = "right>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
     </div>
 
+[![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&theme=dark)](https://skillicons.dev)
 
-<b>Languages (Frameworks, Platforms and Libraries) : </b>
-<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-<b>Tools : </b>
-<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=style=flat-square&logo=windows&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+</p>
