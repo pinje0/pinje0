@@ -29,7 +29,7 @@
     </div>
 </p>
 
-<div align="right">
+<div>
   
   [![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
 
