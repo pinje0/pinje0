@@ -10,8 +10,6 @@
 -   I’m currently learning `React` & `Japanese(日本語)`
 -   日本語を勉強しています
 
-
-
 # <h3 align="left"> Connect with me:</h3>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pinje__/)
 &nbsp;
@@ -29,7 +27,10 @@
     <div align = "right>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
     </div>
-
-[![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&theme=dark)](https://skillicons.dev)
-
 </p>
+
+<div align="right">
+  
+  [![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&theme=dark)](https://skillicons.dev)
+
+</div>
