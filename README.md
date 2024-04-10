@@ -31,6 +31,6 @@
 
 <div align="right">
   
-  [![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&theme=dark)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,git,github,powershell,vscode,windows&perline=5&theme=dark)](https://skillicons.dev)
 
 </div>
