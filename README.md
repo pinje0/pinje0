@@ -17,7 +17,7 @@
 
 # <h3 align="left">Languages and Tools:</h3>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a>
         <img
             align="left"
             src="https://github-readme-stats-pinje0.vercel.app/api/top-langs/?username=pinje0&layout=compact&theme=dark&count-private=true&langs_count=10"
