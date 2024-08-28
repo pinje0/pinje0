@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
+<a href="https://yurak-twcss.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
 
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
@@ -6,14 +6,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{pinje0}/count.svg" width="160px" alt="pinje0 :: Visitor's Count" />
 </p>
-
--   I’m currently learning `React` & `Japanese(日本語)`
--   日本語を勉強しています
-
-# <h3 align="left"> Connect with me:</h3>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pinje__/)
-&nbsp;
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-austin/)
 
 # <h3 align="left">Languages and Tools:</h3>
 <p>
