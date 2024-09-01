@@ -3,9 +3,11 @@
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
 <br>
+<!---
 <p align="center">
   <img src="https://profile-counter.glitch.me/{pinje0}/count.svg" width="160px" alt="pinje0 :: Visitor's Count" />
-</p>
+</p> 
+-->
 
 # <h3 align="left">Languages and Tools:</h3>
 <p>
