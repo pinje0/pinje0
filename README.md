@@ -1,4 +1,5 @@
-<a href="https://yurak-twcss.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=おざす%E3%80%81pinje+here" alt="Typing SVG" /></a>
+<!-- <a href="https://yurak-twcss.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=おざす%E3%80%81pinje+here" alt="Typing SVG" /></a> -->
+<a href="https://yurak-twcss.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=hi%2C+pinje+here" alt="Typing SVG" /></a>
 
 <div align="center"><img src="https://github.com/pinje0/pinje0/blob/main/drp.gif" alt="drp"/></div>
 
